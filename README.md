@@ -2,6 +2,19 @@
 
 > Saaremaa Tugikeskus Prismic CMSiga
 
+- Domeen tulevikus -> https://tugikeskus.saaremaavald.ee
+- Disain ->
+  - Disaini ajaline jälgimine
+
+## Projekti üldvaade
+
+- [ ] UI/UX Disaini loomine.
+  - [ ] Wireframe - struktuur
+  - [ ] Värvilahendused
+  - [ ] Fondid
+
+## Projekti ajaline arvestus
+
 ## Märkmed
 
 #### Töötajate kontaktid.
