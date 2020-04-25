@@ -1,17 +1,31 @@
-# tugikeskus-prismic-cms
+# Tugikeskus-Prismic-CMS
 
-> Saaremaa tugikeskus Prismic CMSiga
+> Saaremaa Tugikeskus Prismic CMSiga
 
 ## Märkmed
 
-- Dokumendid
-  - Dokumente tuleb koguaeg juurde.
-  - Neid tuleb lisada läbi CMSi.
-- Töötajate kontaktid.
-  - Tuleb täpsustada "vastuvõtu aeg ja koht" osa.
-  - Kas see on midagi dünaamilist?
-- Koolituskalender
-  - Registreerimise võimalus.
-  - "Nõustun Tugikeskuse andmekaitse andmetega" checkbox.
-- Koostööpartnerid.
-  - Kas neid tuleb aja jooksul juurde?
+#### Töötajate kontaktid.
+
+- Tuleb täpsustada "vastuvõtu aeg ja koht" osa.
+- Töötajad tuleb jagada kategooriatesse.
+
+#### Koolituskalender
+
+- Registreerimise võimalus.
+- "Nõustun Tugikeskuse andmekaitse andmetega" checkbox.
+
+#### Kodulehe info
+
+- Kas kodulehel olev info vajab aegajalt uuendamist?
+- Kas on sektsioone, mida me saame koodi sisse kirjutada
+- Kui on sektsioone, mis vajavad täiustamist ning ümbertöötlemist aja jooksul, siis millised?
+
+## Sisuhaldussüsteem (CMS)
+
+#### Nimekiri elementidest, mis tulevad läbi sisuhaldussüsteemi.
+
+- Blogipostitused
+- Töötajate nimekiri
+- Kasulikku -> Dokumentide list, mis aja jooksul täieneb.
+- Koolitused
+- Koostööpartnerid, mis võivad aja jooksul muutuda.
