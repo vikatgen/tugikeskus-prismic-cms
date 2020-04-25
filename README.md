@@ -21,10 +21,15 @@
 
 ## Märkmed
 
+#### Blogipostitused
+
+- Et asi ei oleks algusest peale kohe nii tühi, siis peaks olema valmis ka vähemalt 3-5 blogipostitust, mida Saaremaa Tugikeskus soovib jagada.
+
 #### Töötajate kontaktid.
 
 - Tuleb täpsustada "vastuvõtu aeg ja koht" osa.
 - Töötajad tuleb jagada kategooriatesse.
+- Kas lisanduvad ka pildid?
 
 #### Koolituskalender
 
