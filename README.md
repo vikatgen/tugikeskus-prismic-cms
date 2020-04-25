@@ -12,8 +12,12 @@
   - [ ] Wireframe - struktuur
   - [ ] Värvilahendused
   - [ ] Fondid
+- [ ] Disaini järgi CMS struktuuri loomine (Kõik, mida peab saama muuta, täiendada jne.)
 
 ## Projekti ajaline arvestus
+
+- Disain
+- Arendamine
 
 ## Märkmed
 
