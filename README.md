@@ -22,6 +22,8 @@
 
 ## Sisuhaldussüsteem (CMS)
 
+_Sisuhaldussüteemi haldab ja majutab Prismic CMS_
+
 #### Nimekiri elementidest, mis tulevad läbi sisuhaldussüsteemi.
 
 - Blogipostitused
